@@ -1,0 +1,41 @@
+
+## --- (Core auxiliary files) ---
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.toc
+
+## --- (Bibliography, Indexes, Bookmarks) ---
+*.bbl
+*.blg
+*.idx
+*.ind
+*.ilg
+*.out
+*.run.xml
+*.bcf
+
+## --- (Lists of figures/tables) ---
+*.lof
+*.lot
+
+## ---(Package specific) ---
+# hyperref
+*.brf
+# listings
+*.lol
+# beamer
+*.nav
+*.snm
+*.vrb
+# tikz
+*.thm
+
+
+*.pdf
+
+.DS_Store
+.vscode/
+*.swp
